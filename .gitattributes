@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/genz_social_media_usage_1M.csv filter=lfs diff=lfs merge=lfs -text
